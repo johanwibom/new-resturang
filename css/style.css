@@ -94,5 +94,27 @@ footer{
     display: table;
   }
 
+ p{ 
   font-family: 'DM Serif Display', serif;
-font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive;
+}
+
+header{
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Lobster', cursive;
+}
+
+h2{
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Lobster', cursive;
+}
+
+.meny{
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Lobster', cursive;
+}
+
+nav{
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Lobster', cursive;
+}
