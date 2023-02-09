@@ -10,8 +10,12 @@
 
 
 
-.Biff{
+.Biff{              /* sätter propotionerna för bilden som återfinns i menysidan vid själva menyn */
 width: 150px;
+}
+
+nav{
+  background-color: rgb(176, 176, 176);
 }
 
 section{
@@ -22,7 +26,7 @@ footer{
     background-color: rgb(176, 176, 176);
 }
 
-.loggan{
+.loggan{  /* sätter propotionerna för bilden som återfinns i högst upp i webbsidorna */
     width: 150px;
     display: block  ;
     margin-left: auto;
@@ -30,7 +34,7 @@ footer{
     
 }
 
-.fika{
+.fika{  /* sätter propotionerna för bilden som återfinns i hemmsidan vid h2 rubriken */
     width: 50%;
 }
    
