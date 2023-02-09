@@ -11,6 +11,7 @@
 .container{
     height: 100%; /* denna sätter hemsidans höjd till 100%*/
     display: grid; /* definierar att detta ska vara ett grid */
+    grid-gap: 4px;
     grid-template-columns: repeat(12, 1fr);  /* mängden columner, alla är en 12:e del */
     grid-template-rows: 80px 60px auto; /*hur stora kolumnerna är*/
     margin: 10px;
@@ -70,6 +71,7 @@ section{                    /* Denna skapar strukturen för allt under rubruk oc
    .container{
     height: 100%;
     display: grid; /* definierar att detta ska vara ett grid */
+    grid-gap: 4px;
     grid-template-columns: repeat(12, 1fr);  /* mängden columner, alla är en 12:e del */
     grid-template-rows: 80px 60px auto;
     margin: 10px;
