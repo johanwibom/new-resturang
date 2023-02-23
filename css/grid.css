@@ -87,7 +87,7 @@ section{                    /* Denna skapar strukturen för allt under rubruk oc
   text-align: center;
   grid-row: 3/4;
   }
-  
+          /*gör så att menyn tas bort*/
   .meny{
     display: none;
   }

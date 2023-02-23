@@ -38,20 +38,12 @@ footer{
     width: 50%;
 }
    
-  dropbtn {
-    background-color: #3498DB;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-  }
-  
+
   .dropbtn:hover, .dropbtn:focus {
     background-color: #2980B9;
   }
-  
-  .dropdown {
+          /*inkopierat från w3 schools*/
+  .dropdown {                     
     position: relative;
     display: inline-block;
   }
@@ -87,13 +79,13 @@ footer{
     padding: 5px;
   }
   
-  /* Clearfix (clear floats) */
+  
   .row::after {
     content: "";
     clear: both;
     display: table;
   }
-
+            /*gör nästan all text till en annan font*/
  p{ 
   font-family: 'DM Serif Display', serif;
   font-family: 'Lobster', cursive;

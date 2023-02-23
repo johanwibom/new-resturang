@@ -9,18 +9,8 @@
 /*********************************************/
 
 
-/*function myFunction() {
-    var x = document.getElementById("myLinks");
-    if (x.style.display === "block") {
-      x.style.display = "none";
-    } else {
-      x.style.display = "block";
-    }
-  }*/
 
-  /* When the user clicks on the button,
-toggle between hiding and showing the dropdown content */
-function myFunction() {
+function myFunction() { /* allt nedan är kopierat från w3*/
   document.getElementById("myDropdown").classList.toggle("show");
 }
 
